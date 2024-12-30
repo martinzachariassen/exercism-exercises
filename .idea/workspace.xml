@@ -5,43 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024fb1cf-1fff-4a48-8a97-bf963513220e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/annalyns-infiltration/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/annalyns-infiltration/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/annalyns-infiltration/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/annalyns-infiltration/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/annalyns-infiltration/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/calculator-conundrum/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/calculator-conundrum/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/calculator-conundrum/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/calculator-conundrum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/calculator-conundrum/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/elons-toy-car/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/elons-toy-car/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/elons-toy-car/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/elons-toy-car/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/elons-toy-car/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/karls-languages/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/karls-languages/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/karls-languages/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/karls-languages/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/karls-languages/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/lasagna/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/lasagna/HINTS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/lasagna/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/lasagna/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/lasagna/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/lasagna/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/need-for-speed/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/need-for-speed/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/need-for-speed/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/need-for-speed/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/need-for-speed/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/squeaky-clean/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/squeaky-clean/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/squeaky-clean/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/squeaky-clean/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/squeaky-clean/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/BaseRemoteControlCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/remote-control-competition/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/ExperimentalRemoteControlCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/ExperimentalRemoteControlCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/ProductionRemoteControlCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/ProductionRemoteControlCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/RemoteControlCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/RemoteControlCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/TestTrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/TestTrack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +53,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;martinzachariassen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:martinzachariassen/exercism-exercises.git&quot;,
+    &quot;accountId&quot;: &quot;6600b1f3-ec2f-498c-8fc0-42779d9b014b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -131,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735491485946</updated>
-      <workItem from="1735491487340" duration="8008000" />
+      <workItem from="1735491487340" duration="8639000" />
     </task>
     <servers />
   </component>

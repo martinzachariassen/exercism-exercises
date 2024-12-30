@@ -1,12 +1,13 @@
+import java.util.Collections;
 import java.util.List;
 
 public class TestTrack {
-
     public static void race(RemoteControlCar car) {
-        throw new UnsupportedOperationException("Please implement the (static) TestTrack.race() method");
+        car.drive();
     }
 
-    public static List<ProductionRemoteControlCar> getRankedCars(List<ProductionRemoteControlCar> cars) {
-        throw new UnsupportedOperationException("Please implement the (static) TestTrack.getRankedCars() method");
+    public static <T extends RemoteControlCar & Comparable<T>> List<T> getRankedCars(List<T> cars) {
+        Collections.sort(cars);
+        return cars;
     }
 }
