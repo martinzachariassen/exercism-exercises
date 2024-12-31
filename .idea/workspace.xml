@@ -5,7 +5,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024fb1cf-1fff-4a48-8a97-bf963513220e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/java/learning-exercise/wizards-and-warriors/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/learning-exercise/wizards-and-warriors/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/learning-exercise/wizards-and-warriors/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/learning-exercise/wizards-and-warriors/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/learning-exercise/wizards-and-warriors/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/src/main/java/CarsAssemble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/cars-assemble/src/test/java/CarsAssembleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/src/main/java/FootballMatchReports.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/football-match-reports/src/test/java/FootballMatchReportsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/log-levels/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/BaseRemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/ExperimentalRemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/ProductionRemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/RemoteControlCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/src/main/java/TestTrack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/remote-control-competition/src/test/java/RemoteControlCarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/.exercism/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/.exercism/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/HINTS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/src/main/java/SalaryCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/salary-calculator/src/test/java/SalaryCalculatorTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +190,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735491485946</updated>
-      <workItem from="1735491487340" duration="10275000" />
+      <workItem from="1735491487340" duration="10318000" />
     </task>
     <servers />
   </component>
