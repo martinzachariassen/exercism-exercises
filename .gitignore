@@ -9,6 +9,8 @@ java/.idea/modules.xml
 java/.idea/jarRepositories.xml
 java/.idea/compiler.xml
 java/.idea/libraries/
+java/**/.idea
+.idea
 *.iws
 *.iml
 *.ipr

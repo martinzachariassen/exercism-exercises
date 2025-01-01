@@ -1,14 +1,15 @@
 class Fighter {
 
-    boolean isVulnerable() {
-        return true;
-    }
+  protected boolean isVulnerable() {
+    return true;
+  }
 
-    int getDamagePoints(Fighter fighter) {
-        return 1;
-    }
+  protected int getDamagePoints(Fighter fighter) {
+    return 1;
+  }
+
+  @Override
+  public String toString() {
+    return "Fighter";
+  }
 }
-
-// TODO: define the Warrior class
-
-// TODO: define the Wizard class
