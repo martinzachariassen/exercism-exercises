@@ -4,12 +4,12 @@ class Warrior extends Fighter {
   private static final int DAMAGE_AGAINST_VULNERABLE_TARGET = 10;
 
   @Override
-  protected boolean isVulnerable() {
+  public boolean isVulnerable() {
     return false;
   }
 
   @Override
-  protected int getDamagePoints(Fighter fighter) {
+  public int getDamagePoints(Fighter fighter) {
     return fighter.isVulnerable() ? DAMAGE_AGAINST_VULNERABLE_TARGET : NORMAL_DAMAGE;
   }
 

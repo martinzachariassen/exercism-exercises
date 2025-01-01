@@ -12,12 +12,12 @@ class Wizard extends Fighter {
   }
 
   @Override
-  protected boolean isVulnerable() {
+  public boolean isVulnerable() {
     return isVulnerable;
   }
 
   @Override
-  protected int getDamagePoints(Fighter fighter) {
+  public int getDamagePoints(Fighter fighter) {
     if (hasSpellReady) {
       hasSpellReady = false;
       isVulnerable = true;

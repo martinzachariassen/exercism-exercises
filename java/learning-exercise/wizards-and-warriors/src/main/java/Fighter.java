@@ -1,10 +1,10 @@
 class Fighter {
 
-  protected boolean isVulnerable() {
+  public boolean isVulnerable() {
     return true;
   }
 
-  protected int getDamagePoints(Fighter fighter) {
+  public int getDamagePoints(Fighter fighter) {
     return 1;
   }
 
